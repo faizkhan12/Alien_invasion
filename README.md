@@ -74,3 +74,9 @@ A short and simple permissive license with conditions only requiring preservatio
  Liability
  
  Warranty
+ 
+ 
+ # Credits
+ 
+ Special thanks to Oshóva - Modern Blues (Vlog No Copyright Music) for letting me use this music for game's background and imgflip.com for conveniently converting gif image.
+ 
