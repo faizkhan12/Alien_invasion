@@ -17,7 +17,7 @@ def run_game():
     pygame.display.set_caption("Alien Invasion")
 
     #Turn on music
-    pygame.mixer.music.load('sound/Oshova.wav')
+    pygame.mixer.music.load('sound/Savannah.wav')
     pygame.mixer.music.play(-1)
 
     #Make the play button
